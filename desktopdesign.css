@@ -1,0 +1,909 @@
+.desktop-desktop {
+    width: 100%;
+    height: 1895px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    max-width: 1440px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 0px 0px 0px 0px;
+    background-color: rgba(250, 250, 250, 1);
+  }
+  .desktop-group4 {
+    top: 169px;
+    left: -32px;
+    width: 1504px;
+    height: 358px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .desktop-group3 {
+    top: 47px;
+    left: 482px;
+    width: 540px;
+    height: 304px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .desktop-text {
+    left: 48px;
+    color: rgba(39, 40, 60, 1);
+    width: 445px;
+    height: auto;
+    position: absolute;
+    font-size: 64px;
+    align-self: auto;
+    font-style: Black;
+    text-align: center;
+    font-family: Red Hat Display;
+    font-weight: 900;
+    line-height: 64px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop-text05 {
+    top: 162px;
+    color: rgba(134, 135, 156, 1);
+    width: 540px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: center;
+    font-family: Red Hat Display;
+    font-weight: 500;
+    line-height: 26px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop-group2 {
+    top: 246px;
+    left: 96px;
+    width: 348px;
+    height: 58px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .desktop-group {
+    top: 0px;
+    left: 0px;
+    width: 193px;
+    height: 58px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 0px 0px 0px 0px;
+  }
+  .desktop-text07 {
+    top: 0px;
+    left: 0px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Black;
+    text-align: left;
+    font-family: Red Hat Display;
+    font-weight: 900;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+    background: #4d96a9;
+    padding: 0.6em 1.3em;
+    border-radius: 5em;
+    font-weight: bold;
+    display: inline-block;
+  }
+  .desktop-text09 {
+    top: 0px;
+    left:  0px;
+    color: rgba(142, 226, 248, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Black;
+    text-align: left;
+    font-family: Red Hat Display;
+    font-weight: 900;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+    padding: 0.6em 1em;
+    border-radius: 5em;
+    font-weight: bold;
+    display: inline-block;
+  }
+  .desktop-group-copy {
+    top: 0px;
+    left: 209px;
+    width: 139px;
+    height: 58px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 0px 0px 0px 0px;
+  }
+  .desktop-text11 {
+    top: 0px;
+    left: 0px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Black;
+    text-align: left;
+    font-family: Red Hat Display;
+    font-weight: 900;
+    line-height: 16px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+    background: #855fb1;
+    padding: 0.6em 1em;
+    border-radius: 5em;
+    font-weight: bold;
+    display: inline-block;
+  }
+  .desktop-mask {
+    top: 55px;
+    right: 110px;
+    width: 394px;
+    height: 303px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: rgba(150, 150, 150, 1);
+  }
+ 
+  .desktop-mask06 {
+    top: 55px;
+    left: 0px;
+    width: 394px;
+    height: 303x;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: rgba(150, 150, 150, 1);
+  }
+  
+  
+  .desktop-mask11 {
+    top: 138px;
+    left: 142px;
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: rgba(150, 150, 150, 1);
+  }
+  .desktop-group6 {
+    top: 637px;
+    left: 692px;
+    width: 56px;
+    height: 140px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+  }
+  .desktop-group-copy1 {
+    top: 83.99608612060547px;
+    left: 0px;
+    width: 56px;
+    height: 56px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .desktop-group5 {
+    top: 0px;
+    left: 0px;
+    width: 56px;
+    height: 56px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 0px 0px 0px 0px;
+  }
+  .desktop-rectangle2 {
+    top: 0px;
+    left: 0px;
+    width: 56px;
+    height: 56px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: rgba(135, 135, 157, 0.25);
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 0;
+    border-radius: 50%;
+    margin-bottom: 0;
+  }
+  .desktop-text13 {
+    top: 0px;
+    left: 0px;
+    width: 56px;
+    height: 56px;
+    box-sizing: border-box;
+    color: rgba(135, 135, 157, 1);
+    width: 50px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: center;
+    font-style: Black;
+    text-align: center;
+    font-family: Red Hat Display;
+    font-weight: 900;
+    line-height: 55px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle
+
+  }
+  .desktop-path2 {
+    top: 28px;
+    left: 50%;
+    width: 100%;
+    height: 4px;
+    opacity: 0.25;
+    position: absolute;
+    box-sizing: border-box;
+    margin-left: -4px;
+    margin-right: 0;
+    margin-bottom: 0;
+    background: #fff;
+    
+  }
+  .desktop-group7 {
+    top: 841px;
+    left: 165px;
+    width: 1110px;
+    height: 242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .desktop-bitmap {
+    top: 0px;
+    left: 0px;
+    width: 255px;
+    height: 242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(215, 215, 215, 1);
+  }
+  .desktop-mask12 {
+    top: 0px;
+    left: 0px;
+    width: 255px;
+    height: 242px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: rgba(150, 150, 150, 1);
+    border-radius: 8px;
+  }
+  .desktop-bitmap1 {
+    top: -73px;
+    left: -106px;
+    width: 498px;
+    height: 332px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+  }
+  .desktop-bitmap-copy {
+    top: 0px;
+    left: 285px;
+    width: 255px;
+    height: 242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(215, 215, 215, 1);
+  }
+  .desktop-mask13 {
+    top: 0px;
+    left: 0px;
+    width: 255px;
+    height: 242px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: rgba(150, 150, 150, 1);
+    border-radius: 8px;
+  }
+  .desktop-bitmap2 {
+    top: -56px;
+    left: 0px;
+    width: 255px;
+    height: 383px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+  }
+  .desktop-bitmap-copy2 {
+    top: 0px;
+    left: 570px;
+    width: 255px;
+    height: 242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(215, 215, 215, 1);
+  }
+  .desktop-mask14 {
+    top: 0px;
+    left: 0px;
+    width: 255px;
+    height: 242px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: rgba(150, 150, 150, 1);
+    border-radius: 8px;
+  }
+  .desktop-bitmap3 {
+    top: 8px;
+    left: -66px;
+    width: 384px;
+    height: 256px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+  }
+  .desktop-bitmap-copy3 {
+    top: 0px;
+    left: 855px;
+    width: 255px;
+    height: 242px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(215, 215, 215, 1);
+  }
+  .desktop-mask15 {
+    top: 0px;
+    left: 0px;
+    width: 255px;
+    height: 242px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: rgba(150, 150, 150, 1);
+    border-radius: 8px;
+  }
+  .desktop-bitmap4 {
+    top: -80px;
+    left: -6px;
+    width: 268px;
+    height: 402px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+  }
+  .desktop-group8 {
+    top: 1163px;
+    left: 450px;
+    width: 540px;
+    height: 240px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+  }
+  .desktop-text15 {
+    top: 42px;
+    left: 48px;
+    color: rgba(39, 40, 60, 1);
+    width: 445px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Black;
+    text-align: center;
+    font-family: Red Hat Display;
+    font-weight: 900;
+    line-height: 44px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop-text17 {
+    top: 162px;
+    color: rgba(134, 135, 156, 1);
+    width: 540px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: center;
+    font-family: Red Hat Display;
+    font-weight: 500;
+    line-height: 26px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop-text19 {
+    left: 133px;
+    color: rgba(77, 150, 169, 1);
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    align-self: auto;
+    font-style: Black;
+    text-align: left;
+    font-family: Red Hat Display;
+    font-weight: 900;
+    line-height: 26px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .desktop-bitmap5 {
+    top: 1587px;
+    left: 0px;
+    width: 1440px;
+    height: 308px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: rgba(77, 150, 169, 1);
+   
+  }
+  .desktop-mask16 {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 308px;
+    opacity: 0.10; 
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent,rgba(150, 150, 150, 1);
+    background-image: url("../HTML-Personal Site/Landing Project/meet-landing-page/starter-code/assets/desktop/image-footer.jpg");
+    background-blend-mode: lighten;
+    
+  }
+  .desktop-bitmap6 {
+    top: -382px;
+    left: 0px;
+    width: 1440px;
+    height: 960px;
+    opacity: 0.10;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+    background-color: rgba(77, 150, 169, 1);
+  }
+  .desktop-group9 {
+    top: 1703px;
+    left: 165px;
+    width: 1110px;
+    height: 88px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .desktop-text21 {
+    color: rgba(250, 250, 250, 1);
+    width: 350px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Black;
+    text-align: left;
+    font-family: Red Hat Display;
+    font-weight: 900;
+    line-height: 44px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop-group1 {
+    top: 15px;
+    left: 917px;
+    width: 193px;
+    height: 58px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 0px 0px 0px 0px;
+    padding: 0.6em 1.3em;
+    border-radius: 1.4em;
+    font-size: medium;
+    font-weight: bold;
+    display: inline-block;
+  }
+  .desktop-text23 {
+    top: 6px;
+    left: 0px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Black;
+    text-align: left;
+    font-family: Red Hat Display;
+    font-weight: 900;
+    line-height: 26px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+    background: #855fb1;
+    color: white;
+    padding: 0.6em 3em;
+    font-size: 1.2em;
+    border-radius: 1.3em;
+    font-weight: bold;
+    display: inline-block;
+    
+  }
+  .desktop-text25 {
+    top: 6px;
+    left: 120px;
+    color: rgba(217, 184, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Black;
+    text-align: left;
+    font-family: Red Hat Display;
+    font-weight: 900;
+    line-height: 26px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+    color:#d9b8ff;
+    padding: 0.6em 1.3em;
+    font-size: 1.2em;
+    font-weight: bold;
+    display: inline-block;
+  }
+  .desktop-text27 {
+    left: 475px;
+    color: rgba(250, 250, 250, 1);
+    width: 350px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Red Hat Display;
+    font-weight: 500;
+    line-height: 26px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .desktop-group6copy {
+    top: 1475px;
+    left: 692px;
+    width: 56px;
+    height: 140px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+  }
+  .desktop-group-copy2 {
+    top: 83.99608612060547px;
+    left: 0px;
+    width: 56px;
+    height: 56px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .desktop-group51 {
+    top: 0px;
+    left: 0px;
+    width: 56px;
+    height: 56px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 0;
+    border-radius: 50%;
+    margin-bottom: 0;
+  }
+  .desktop-text29 {
+    top: 10px;
+    left: 10px;
+    color: rgba(135, 135, 157, 1);
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    align-self: auto;
+    font-style: Black;
+    text-align: center;
+    font-family: Red Hat Display;
+    font-weight: 900;
+    line-height: 26px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    width: 50px;
+    height: auto;
+    margin-right: 0;
+    margin-bottom: 0;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle
+  }
+  .desktop-group11 {
+    top: 80px;
+    left: 661px;
+    width: 119px;
+    height: 28px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .desktop-group10 {
+    top: 0px;
+    left: 0px;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .desktop-meet2 {
+    top: 2.200000047683716px;
+    left: 38.715999603271484px;
+    width: 80px;
+    height: 24px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    border-radius: 0px 0px 0px 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .desktop-meet {
+    top: 0.800000011920929px;
+    left: 0.2840000092983246px;
+    width: 79px;
+    height: 23px;
+    position: absolute;
+    box-sizing: border-box;
+  }
+  
